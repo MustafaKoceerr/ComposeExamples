@@ -4,5 +4,6 @@
     <string name="title">This title come from Strings.xml</string>
     <string name="sign_up_google">Sign Up with Google</string>
     <string name="creating_acc">Creating Account...</string>
+    <string name="btn_name">Gradient Button</string>
 
 </resources>
